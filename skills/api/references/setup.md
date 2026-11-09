@@ -164,7 +164,7 @@ Trust Wallet supports 100+ chains. Below is the list grouped by type. Chains mar
 | Avalanche C-Chain | 10009000 | AVAX | 43114 |
 | Arbitrum | 10042221 | ETH | 42161 |
 | Optimism | 10000070 | ETH | 10 |
-| Base | 10008453 | ETH | 8453 |
+| Base | 8453 | ETH | 8453 |
 | Fantom | 10000250 | FTM | 250 |
 | Sonic | — | S | — |
 | Linea | — | ETH | 59144 |
